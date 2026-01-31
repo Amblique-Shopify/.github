@@ -2,7 +2,7 @@
 
 Welcome to Amblique's Shopify GitHub organization! 🚀
 
-[Amblique](https://amblique.com/) is Australia's industry leader in ecommerce and digital consulting, providing omnichannel strategies, retail practice and site optimisation services to help retailers and brand owners sell more.
+<a href="https://amblique.com/" target="_blank" rel="noopener noreferrer">Amblique</a> is Australia's industry leader in ecommerce and digital consulting, providing omnichannel strategies, retail practice and site optimisation services to help retailers and brand owners sell more.
 
 As a proud Shopify partner, we help businesses build, optimize, and scale their digital commerce offerings on the Shopify platform.
 
@@ -10,7 +10,7 @@ As a proud Shopify partner, we help businesses build, optimize, and scale their 
 
 We develop and maintain various tools and resources to help Shopify merchants and developers:
 
-- **[Amblique UCP Auditor](https://ucp.amblique.dev)** - A tool to audit storefronts readiness for Universal Commerce Protocol and Agentic Commerce - works across all ecommerce platforms.
+- **<a href="https://ucp.amblique.dev" target="_blank" rel="noopener noreferrer">Amblique UCP Auditor</a>** - A tool to audit storefronts readiness for Universal Commerce Protocol and Agentic Commerce - works across all ecommerce platforms.
 
 
 ## About Amblique
@@ -27,7 +27,7 @@ Amblique specializes in:
 
 ## Get In Touch
 
-- 🌐 Website: [amblique.com](https://amblique.com/)
+- 🌐 Website: <a href="https://amblique.com/" target="_blank" rel="noopener noreferrer">amblique.com</a>
 - 📧 Email: hello@amblique.com
 
 ---
