@@ -1,12 +1,35 @@
-## Hi there 👋
+# Amblique Shopify
 
-<!--
+Welcome to Amblique's Shopify GitHub organization! 🚀
 
-**Here are some ideas to get you started:**
+[Amblique](https://amblique.com/) is Australia's industry leader in ecommerce and digital consulting, providing omnichannel strategies, retail practice and site optimisation services to help retailers and brand owners sell more.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+As a proud Shopify partner, we help businesses build, optimize, and scale their digital commerce offerings on the Shopify platform.
+
+## Our Tools & Resources
+
+We develop and maintain various tools and resources to help Shopify merchants and developers:
+
+- **[UCP (Universal Commerce Protocol)](https://ucp.amblique.dev)** - A tool to audit storefronts readiness for UCP and Agentic Commerce - works across all ecommerce platforms.
+
+
+## About Amblique
+
+Amblique specializes in:
+
+- 🎯 **Retail Strategy** - Data-driven digital commerce strategies
+- 💻 **Digital Commerce Implementation** - Shopify and other platform implementations
+- 📈 **Growth & Optimisation** - Platform optimization and enablement services
+- 🎨 **Design & CX** - Creating digital commerce success stories
+- 🔍 **Search & Acquisition** - SEO and traffic generation strategies
+- 🛠️ **Solution Support** - Dedicated client services and support
+- 👥 **Team Extension** - Technical, functional, design, and data resources
+
+## Get In Touch
+
+- 🌐 Website: [amblique.com](https://amblique.com/)
+- 📧 Email: hello@amblique.com
+
+---
+
+© Amblique Pty Ltd 2026
