@@ -10,7 +10,7 @@ As a proud Shopify partner, we help businesses build, optimize, and scale their 
 
 We develop and maintain various tools and resources to help Shopify merchants and developers:
 
-- **[UCP (Universal Commerce Protocol)](https://ucp.amblique.dev)** - A tool to audit storefronts readiness for UCP and Agentic Commerce - works across all ecommerce platforms.
+- **[Amblique UCP Auditor](https://ucp.amblique.dev)** - A tool to audit storefronts readiness for Universal Commerce Protocol and Agentic Commerce - works across all ecommerce platforms.
 
 
 ## About Amblique
